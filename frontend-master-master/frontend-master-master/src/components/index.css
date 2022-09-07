@@ -1,0 +1,14 @@
+.logo {
+  height: 3.5rem;
+  padding-bottom: 1rem;
+}
+i{
+  padding-right: 5px;
+  color:#f0f8ff
+}
+p{
+  background-color: black;
+  text-align: center;
+  color: #f0f8ff;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
