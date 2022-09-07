@@ -34,12 +34,12 @@ const Title = styled.h1`
 `;
 
 const Button = styled.button`
-    border:none;
+    border:1px solid white;
     padding: 10px;
-    background-color: white;
-    color:gray;
+    background-color: black;
+    color:white;
     cursor: pointer;
-    font-weight: 600;
+    font-weight: 400;
 `;
 
 const CategoryItem = ({ item }) => {

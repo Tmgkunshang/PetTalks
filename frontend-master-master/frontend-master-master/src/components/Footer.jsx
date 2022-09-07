@@ -94,7 +94,7 @@ const Footer = () => {
           <Room />6 Rundle Mall, Adelaide SA
         </ContactItem>
         <ContactItem>
-          <Phone />+6142xxxxxxx
+          <Phone />+6142987968
         </ContactItem>
         <ContactItem>
           <MailOutline/>contact@pettalks.dev
